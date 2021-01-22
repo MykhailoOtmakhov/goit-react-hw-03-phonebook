@@ -1,16 +1,13 @@
 import React, { Component } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import styles from './ContactForm.module.css';
-import PropTypes from 'prop-types'
-
-
-// import PropTypes from 'prop-types'
 
 export default class ContactForm extends Component {
     state = {
         name: '',
         number: '',
     }
+
 
     nameInputId = uuidv4();
     numberInputId = uuidv4();
