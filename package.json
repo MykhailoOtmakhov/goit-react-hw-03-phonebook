@@ -23,15 +23,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://MykhailoOtmakhov.github.io/goit-react-hw-03-phonebook.git"
+    "url": "git+https://MykhailoOtmakhov.github.io/goit-react-hw-05-phonebook.git"
   },
   "keywords": [],
   "author": " ",
   "license": "ISC",
   "bugs": {
-    "url": "https://MykhailoOtmakhov.github.io/goit-react-hw-03-phonebook"
+    "url": "https://MykhailoOtmakhov.github.io/goit-react-hw-05-phonebook"
   },
-  "homepage": "http://MykhailoOtmakhov.github.io/goit-react-hw-03-phonebook/",
+  "homepage": "http://MykhailoOtmakhov.github.io/goit-react-hw-05-phonebook/",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1"
